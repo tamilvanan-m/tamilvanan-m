@@ -16,8 +16,10 @@
 
 <div align="center">
 
- **Passionate learner and developer** who loves building **full-stack web apps**, exploring **DSA**, and working with **modern tech tools**.  
- Currently diving deep into **JavaScript, React, Firebase, and MongoDB**, while also sharpening my **C++, Python, and Java** fundamentals for problem solving and algorithmic thinking.
+ <div align="center">
+  Skilled in <b>Java</b>, <b>C++</b>, <b>HTML</b>, and <b>CSS</b>, with a strong interest in front-end development and effective UI design.  
+  Open to learning modern frameworks, improving coding practices, and exploring new technologies to enhance my development skills.
+</div>
 
 </div>  
 
